@@ -5,13 +5,9 @@
 
 ### Screenshot
 
-![Juan Valderrama](login.png)
-
-
-![Juan Valderrama](dashboard.png)
-
-
-![Juan Valderrama](review.png)
+![plot1](./login.png)
+![plot2](./dashboard.png)
+![plot3](./review.png)
 
 ### Demo Site: [Here](http://69.10.40.106:3000/)
 
