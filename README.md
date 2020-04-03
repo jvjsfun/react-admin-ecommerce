@@ -1,13 +1,13 @@
-# React-admin e-commerce by Juan Valderrama
-**React-admin** is a responsive react Admin Panle. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: 
+# e-commerce react-adminby Juan Valderrama
+**React-admin** is a responsive react Ecommerce Admin Panle. It provides you with a collection of ready to use code snippets and utilities, custom pages, loads of charts, dashboard variations, a collection of applications and some useful widgets. Preview of this awesome admin template available here: 
 
 # Preview
 
 ### Screenshot
 
-![plot1](./login.png)
-![plot2](./dashboard.png)
-![plot3](./review.png)
+![plot1](https://github.com/jvjsfun/react-admin-ecommerce/blob/master/login.PNG)
+![plot2](https://github.com/jvjsfun/react-admin-ecommerce/blob/master/dashboard.PNG)
+![plot3](https://github.com/jvjsfun/react-admin-ecommerce/blob/master/review.PNG)
 
 ### Demo Site: [Here](http://69.10.40.106:3000/)
 
